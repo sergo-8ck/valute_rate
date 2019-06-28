@@ -54,6 +54,6 @@
 
 <!-- js files -->
 <script src="/js/front.js"></script>
-<script>window.jQuery || document.write('<script src="js/jquery-slim.min.js"><\/script>')</script>
+@yield('script')
 </body>
 </html>

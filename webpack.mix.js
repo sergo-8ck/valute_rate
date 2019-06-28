@@ -17,7 +17,7 @@ mix.styles([
 ], 'public/css/front.css');
 
 mix.scripts([
-  'resources/assets/front/js/jquery-3.2.1.slim.min.js',
+  'resources/assets/front/js/jquery-3.1.1.js',
   'resources/assets/front/js/popper.min.js',
   'resources/assets/front/js/bootstrap.min.js',
 ], 'public/js/front.js');
